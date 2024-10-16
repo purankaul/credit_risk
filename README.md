@@ -5,7 +5,7 @@ predict the likelihood of loan defaults. The goal is to help financial instituti
 The system uses two popular classification algorithms—Random Forest Classifier and Support Vector Machine (SVM)—to analyze the risk of loan applicants.
 
 Features:
-Random Forest Classifier: A robust ensemble learning method that builds multiple decision trees to classify credit risk.
-Support Vector Machine (SVM): A powerful classification technique that separates data into classes with a maximum margin.
-Model Comparison: The performance of the Random Forest and SVM models is compared using evaluation metrics such as accuracy, precision.
-Data Preprocessing: Handles missing values, scales numerical features, and encodes categorical data.
+1) Random Forest Classifier: A robust ensemble learning method that builds multiple decision trees to classify credit risk.
+2) Support Vector Machine (SVM): A powerful classification technique that separates data into classes with a maximum margin.
+3) Model Comparison: The performance of the Random Forest and SVM models is compared using evaluation metrics such as accuracy, precision.
+4) Data Preprocessing: Handles missing values, scales numerical features, and encodes categorical data.
